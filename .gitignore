@@ -4,3 +4,4 @@
 *.odt
 *.png
 */*.tab
+/lab5/files_tagged.csv
