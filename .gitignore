@@ -5,3 +5,4 @@
 *.png
 */*.tab
 /lab5/files_tagged.csv
+/bert-base-polish-uncased-v1
